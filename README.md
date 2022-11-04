@@ -9,3 +9,5 @@ eu tb!
 
 Participantes:
 - Fábio Vicente
+- https://github.com/Fabio-Vicente
+- https://www.linkedin.com/in/fabio-vicente/
