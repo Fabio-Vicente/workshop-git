@@ -1,6 +1,6 @@
 # workshop-git
 
-cheguei!
+Aprígio Gusmão - cheguei!
 <<<<<<< HEAD
 cheguei também!
 eu tb!
