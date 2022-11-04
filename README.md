@@ -8,4 +8,6 @@ eu tb!
 
 
 Participantes:
-- Fábio Vicente
+- Jorge Luiz Figueira
+- https://github.com/jorgeluizfigueira
+- https://www.linkedin.com/in/jorgeluizfigueira/
