@@ -8,4 +8,6 @@ eu tb!
 
 
 Participantes:
-- Fábio Vicente
+- Germana Nunes
+- https://www.linkedin.com/in/germana-nunes-oliveira/
+- https://github.com/germananunes
