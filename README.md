@@ -9,4 +9,6 @@ eu tb!
 
 Participantes:
 - Fábio Vicente
-- Aprígio Gusmão : https://github.com/AlmggmlA
+- Aprígio Gusmão : 
+github - https://github.com/AlmggmlA
+linkedin - https://www.linkedin.com/in/apr%C3%ADgio-gusm%C3%A3o-07558815/
