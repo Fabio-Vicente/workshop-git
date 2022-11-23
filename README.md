@@ -24,4 +24,3 @@ Participantes:
 - Celso Romero 
 - https://github.com/celsobrf/
 - https://www.linkedin.com/in/celso-romero-7ba3604b/
-
